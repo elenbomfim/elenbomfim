@@ -15,6 +15,10 @@
 
 ### Olá 👋
 
+
+
+- 🔭 Atualmente estou procurando meu primeiro emprego como desenvolvedor Front-End
+  
 - 🌱 Atualmente estou aprendendo **JavaScript e React**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github. com/elenbomfim](https://github.com/elenbomfim)
