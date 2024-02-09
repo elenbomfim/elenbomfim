@@ -4,7 +4,7 @@
 
 - 🔭  I'm currently looking for my first job as a Front-End developer
 - 🌱 I'm specializing in JavaScript and React
-- 👨‍💻 All my projects are available at [https//:](https://github.com/elenbomfim/)
+- 👨‍💻 All my projects are available at [https://github. com/elenbomfim](https://github.com/elenbomfim)
 - 📫 How to contact me **elencabral2@gmail.com**
 - ⚡ Curiosity **I'm happy most of the time**
 
@@ -13,7 +13,7 @@
 
 - 🌱 Atualmente estou aprendendo **JavaScript e React**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https//:](https://github.com/elenbomfim/)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github. com/elenbomfim](https://github.com/elenbomfim)
 
 - 📫 Como entrar em contato comigo **elencabral2@gmail.com**
 
