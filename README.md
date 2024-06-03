@@ -4,28 +4,32 @@
 
 - 🔭  I'm currently looking for my first job as a Front-End developer
 
-- 🌱 I'm specializing in JavaScript and React
+- 🌱 I'm specializing in JavaScript and Angular
 
 - 👨‍💻 All my projects are available at [https://github. com/elenbomfim](https://github.com/elenbomfim)
 
 - 📫 How to contact me **elencabral2@gmail.com**
 
-- ⚡ Curiosity **I'm happy most of the time**
 
 
 ### Olá 👋
 
 
-
-- 🔭 Atualmente estou procurando meu primeiro emprego como desenvolvedor Front-End
+- 🔭 Atualmente estou procurando meu primeiro emprego como desenvolvedor Front-End,
   
-- 🌱 Atualmente estou aprendendo **JavaScript e React**
+- 🌱 Atualmente estou aprofundando meus conhecimentos em **Angular**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github. com/elenbomfim](https://github.com/elenbomfim)
 
 - 📫 Como entrar em contato comigo **elencabral2@gmail.com**
 
-- ⚡ Curiosidade **Sou alegre na maior parte do tempo**
+
+
+- **Linguagens:** JavaScript, HTML5, CSS3
+- **Frameworks e Bibliotecas:** Angular, Angular Material, Bootstrap
+- **Ferramentas de Design:** Figma, InVision
+- **Outras Habilidades:** UX Design, Consumo de APIs, Conhecimento Básico em SQL
+
 
 
 <h3 align="left">Ferramentas:</h3>
