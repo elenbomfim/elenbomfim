@@ -18,7 +18,7 @@
 - 👩‍💻 Tenho experiência com **CSS**, **HTML5**, **JavaScript**, **Bootstrap** e **UX Design**.
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github. com/elenbomfim](https://github.com/elenbomfim)
 - 🔍 Tenho interesse em aprender mais sobre **APIs** e **Banco de Dados SQL**.
-- 📫 Você pode me contatar pelo [LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/elenbomfim/) ou pelo [Email](mailto:seu-email).
+- 📫 Você pode me contatar pelo [LinkedIn](https://www.linkedin.com/in/elenbomfim/) ou pelo [Email](mailto:elencabral2@gmail.com).
 - 
 - 🔭 Atualmente estou procurando meu primeiro emprego como desenvolvedor Front-End,
   
