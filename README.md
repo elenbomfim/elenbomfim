@@ -2,33 +2,23 @@
 ### Hello there 👋
 
 
-- 🔭  I'm currently looking for my first job as a Front-End developer
-
-- 🌱 I'm specializing in JavaScript and Angular
-
-- 👨‍💻 All my projects are available at [https://github. com/elenbomfim](https://github.com/elenbomfim)
-
-- 📫 How to contact me **elencabral2@gmail.com**
 
 
 
 ### Olá 👋
+
+Sou desenvolvedora Front-end com foco em Angular. Tenho paixão por criar interfaces de usuário intuitivas e responsivas, utilizando as tecnologias mais modernas do mercado.
+
+## Sobre Mim
 
 - 🌱 Atualmente, estou aprimorando meus conhecimentos em **Angular** e **Angular Material**.
 - 👩‍💻 Tenho experiência com **CSS**, **HTML5**, **JavaScript**, **Bootstrap** e **UX Design**.
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github. com/elenbomfim](https://github.com/elenbomfim)
 - 🔍 Tenho interesse em aprender mais sobre **APIs** e **Banco de Dados SQL**.
 - 📫 Você pode me contatar pelo [LinkedIn](https://www.linkedin.com/in/elenbomfim/) ou pelo [Email](mailto:elencabral2@gmail.com).
-- 
-- 🔭 Atualmente estou procurando meu primeiro emprego como desenvolvedor Front-End,
-  
-- 🌱 Atualmente estou aprofundando meus conhecimentos em **Angular**
-
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github. com/elenbomfim](https://github.com/elenbomfim)
-
-- 📫 Como entrar em contato comigo **elencabral2@gmail.com**
 
 
+## Minhas Habilidades
 
 - **Linguagens:** JavaScript, HTML5, CSS3
 - **Frameworks e Bibliotecas:** Angular, Angular Material, Bootstrap
