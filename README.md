@@ -38,9 +38,7 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
-  <a href="https://www.invisionapp.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/invision/invision-original.svg(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6VAT0w27VZwA51ZPO0GYUJd__VClzSem3ig&s)" alt="ux" width="40" height="40"/>
-  </a>
+ 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
